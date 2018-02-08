@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+
+.nav-wrapper, .nav-extended, footer {
+    background-image:url(../assets/img/rombos.jpg);
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+
+  }
+
+  .slider .slides li img {
+    height:100vh;
+    margin:0 auto;
+    width:100%;
+    margin-top: 18px;
+  }
+
+a {
+  color: black;
+}
